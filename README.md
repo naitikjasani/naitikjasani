@@ -25,12 +25,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer who builds products end to end, from the server to the screen. Most recently I worked on orders, returns and payments for a quick-commerce app at **OZi**. Outside work I build and ship my own projects.
+I'm a software engineer who builds products end to end, from the server to the screen. Most recently, as an SDE intern at OZi, I worked on orders, returns and payments for a quick-commerce app. Outside work I build and ship my own projects.
 
-- 🔁 I care about **idempotency, retries and consistency**: making sure a retried message never charges someone twice.
-- 📈 I build **observability in from the start**: SLOs, error budgets and timelines that explain what happened to an order.
-- 🧪 I **test what I ship**: one of my features went out with 180+ automated tests.
-- 🌱 Currently building **[Ekayu](https://ekayu.vercel.app/)**, an offline-first personal health record.
+🛒 At OZi, I built features real customers use every day: order tracking, returns and pickup scheduling.
+🧪 I test what I ship: one of my features went out with 180+ automated tests.
+🧩 I enjoy problem solving: 1000+ problems solved on LeetCode and Codeforces.
+🌱 Currently building **[Ekayu](https://ekayu.vercel.app/)**, a health record app that works even without internet.
 
 ---
 
