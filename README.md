@@ -3,7 +3,7 @@
 # Hi, I'm Naitik Jasani 👋
 
 <a href="https://naitik-jasani.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend-focused+Full-Stack+Engineer;Idempotent+queues+%C2%B7+Distributed+systems+%C2%B7+Observability;Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+React;Open+to+SDE+roles+%E2%80%94+can+join+immediately" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer;I+build+reliable+products%2C+end+to+end;Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+React;Open+to+SDE+roles+%E2%80%94+can+join+immediately" alt="Typing SVG" />
 </a>
 
 **Building systems that stay correct when things fail.**
@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a backend-focused full-stack engineer who builds the parts of a product that have to be right: payments, queues, order state and the tooling that tells you when something breaks. Most recently I built order, returns and observability services for a quick-commerce platform at **OZi**. Outside work I ship full-stack products end to end, solo.
+I'm a software engineer who builds products end to end, from the server to the screen. Most recently I worked on orders, returns and payments for a quick-commerce app at **OZi**. Outside work I build and ship my own projects.
 
 - 🔁 I care about **idempotency, retries and consistency**: making sure a retried message never charges someone twice.
 - 📈 I build **observability in from the start**: SLOs, error budgets and timelines that explain what happened to an order.
@@ -209,11 +209,11 @@ Spring Boot service that reports which users can access which repositories in a 
 
 <div align="center">
 
-### 🟢 Open to Software Engineer roles (backend or full-stack), available to join immediately
+### 🟢 Open to Software Engineering roles, available to join immediately
 
-I like talking about **idempotency and retries**, **event-driven systems with SQS and Kafka**, **observability and SLOs**, and **offline-first sync**.
+I enjoy building **reliable products** that people can count on.
 <br />
-Hiring, or want to swap notes on any of these? My inbox is open.
+Hiring, or just want to talk tech? Feel free to email me.
 
 <a href="mailto:naitik.jasani.work@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-naitik.jasani.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 <a href="https://www.linkedin.com/in/naitikjasani"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
